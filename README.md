@@ -129,7 +129,7 @@ for the heading and an for the list of hyperlinks. Step 6: End the HTML document
 ```
 ![Screenshot 2023-12-15 112345](https://github.com/MARXINLIJO/ODD2023-WT-Ex-07-CSS/assets/145742540/d7429517-4d6e-4c9a-83e4-43aa795aca05)
 ![Screenshot 2023-12-15 112407](https://github.com/MARXINLIJO/ODD2023-WT-Ex-07-CSS/assets/145742540/a8b04336-0c3b-4e82-ab2c-5cc57de25a67)
-Ex-07(iii)-CSS Orientation-based Media Query
+# Ex-07(iii)-CSS Orientation-based Media Query
 ## AIM:
 To explain how you can use CSS media queries to apply different styles based on the orientation (landscape or portrait) of the device. Provide a CSS example where you change the background color of the body based on the orientation.
 
